@@ -69,5 +69,5 @@ jupyter notebook churn_train.ipynb
 - Building production-ready pipelines
 
 ## 👨‍💻 Contributors
-Developed by [Aafia Azhar]
+Developed by [**Aafia Azhar**]
 as part of DevelopersHub Corporation – AI/ML Engineering Advanced Internship
