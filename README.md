@@ -30,19 +30,21 @@ churn_pipeline_project/
 │
 ├── data/
 │   └── raw/
-│       └── telco.csv        # Dataset
+│       └── -telco.csv        # Dataset
 │
 ├── models/
 │   └── best_model.pkl       # Exported trained model
 │
 └── metrics.json             # Evaluation results
 
+
 ---
+
 
 ## ⚙️ Setup Instructions
 **1️⃣ Clone the repository**
-git clone https://github.com/aafia1/churn_pipeline_project.git
-cd churn_pipeline_project
+- git clone https://github.com/aafia1/churn_pipeline_project.git
+- cd churn_pipeline_project
 
 **2️⃣ Create environment & install dependencies**
 conda create -n churn-ml python=3.10 -y
